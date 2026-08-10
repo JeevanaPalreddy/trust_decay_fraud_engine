@@ -274,4 +274,4 @@ See `requirements.txt`:
 
 ## License
 
-MIT (or your preferred license).
+No license file is included yet. Add one (for example MIT) before publishing if you want others to reuse this code.
